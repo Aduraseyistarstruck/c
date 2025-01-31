@@ -16,3 +16,4 @@ int main() {
 	}
 }
 
+//floor(a/b) in c gives all division output while a/b in c  gives only int value
