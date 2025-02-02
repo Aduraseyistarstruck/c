@@ -8,7 +8,7 @@ for ( int i = 0; i < 5; ++i )
 sum = sum + array_values[i];
 printf ("Sum is %i\n", sum);
 
-//creating an array without specifying number of elements
+//creating an array without specifying number of elements.
 int array_values1[] = {5,4,3,2,1};
 int sume=0;
 for ( int i = 0; i < 5; ++i )
