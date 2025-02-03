@@ -6,5 +6,6 @@ int main(void){
     if (letter == 'A'){
         printf("Welcome Aduraseyi");
     }
+    //Welcome Aduraseyi is printed if the letter is A
     return 0;
 }
